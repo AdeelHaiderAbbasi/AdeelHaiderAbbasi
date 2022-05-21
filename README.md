@@ -4,6 +4,7 @@
 - 👋 I’m @Adeel Haider
 - 🎓 Graduated from **Arid Agriculture Univeristy Rawalpindi**
 - 🌱 I’m currently learning Flutter Development
+- 🎓 Flutter Certificatioln from **DevNation**
 
 <!---
 AdeelHaiderAbbasi/AdeelHaiderAbbasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
